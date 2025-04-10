@@ -14,17 +14,18 @@ b) convertirNumeroALetras:
 
 c)main:
 
--Pide al usuario un número y valida que esté entre 0 y 1 billón.
+- Pide al usuario un número y valida que esté entre 0 y 1 billón.
 
--Llama a convertirNumeroALetras y muestra el resultado.
+- Llama a convertirNumeroALetras y muestra el resultado.
 
 
 
 
 
 Ejemplo de ejecución:
+
 Entrada:
-12004500
+- 12004500
 
 Salida:
-El número 12004500 en letras es: doce millones cuatro mil quinientos
+- El número 12004500 en letras es: doce millones cuatro mil quinientos
